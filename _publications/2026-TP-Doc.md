@@ -1,5 +1,6 @@
 ---
 title: "Transfer Price Documentation Rules and Multinational Firm Behavior -- Evidence from France"
+coauthors: "Sabine Laudage Teles, Nadine Riedel, Kristina Strohmaier, Johannes Voget, and Sophia Wickel"
 collection: publications
 category: published
 permalink: /publication/2026-TP-Doc
