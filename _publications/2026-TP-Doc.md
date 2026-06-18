@@ -12,10 +12,10 @@ bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Cite as: XYZ'
 
 # Custom media coverage fields
-media_article_title: "Great paper covered by FAZ"
-media_article_url: "https://www.faz.net/your-article"
-media_video_title: "Interview on ZDF"
-media_video_url: "https://www.zdf.de/your-video"
+media_article_title: 
+media_article_url: 
+media_video_title: "Research in a Minute video for the Mannheim Business School"
+media_video_url: "https://youtu.be/RIey-U7WtSA?si=CcEJfT33DgwHt_Dz"
 ---
 
 ---
