@@ -53,10 +53,10 @@
     {% endif %}
 
     {% if post.media_article_url %}
-          <p><strong>Media coverage:</strong> <a href="{{ post.media_article_url }}">{{ post.media_article_title }}</a></p>
+          <p><strong>Media coverage:</strong> <a href="{{ post.media_article_url }}" target="_blank" rel="noopener noreferrer">{{ post.media_article_title }}</a></p>
           {% endif %}
           {% if post.media_video_url %}
-          <p><strong>Video:</strong> <a href="{{ post.media_video_url }}">{{ post.media_video_title }}</a></p>
+          <p><strong>Video:</strong> <a href="{{ post.media_video_url }}" target="_blank" rel="noopener noreferrer">{{ post.media_video_title }}</a></p>
           {% endif %}
     
     {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
